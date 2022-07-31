@@ -1,0 +1,10 @@
+{
+	"python.analysis.extraPaths": [
+		"/home/codespace/.cache/pypoetry/virtualenvs"
+	],
+	"python.autoComplete.extraPaths": [
+		"/home/codespace/.cache/pypoetry/virtualenvs"
+	],
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": false
+}

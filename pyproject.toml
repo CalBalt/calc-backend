@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "CalBalt"
+version = "0.1.0"
+description = "CalBalt"
+authors = ["Nathan Solis <66754842+colderinit@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.79.0"
+
+[tool.poetry.dev-dependencies]
+fastapi = {extras = ["all"], version = "^0.79.0"}
+isort = "^5.10.1"
+black = "^22.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
