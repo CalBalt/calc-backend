@@ -6,5 +6,5 @@
 		"/home/codespace/.cache/pypoetry/virtualenvs"
 	],
 	"python.linting.pylintEnabled": true,
-	"python.linting.enabled": true
+	"python.linting.enabled": false
 }
