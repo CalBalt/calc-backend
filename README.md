@@ -1,6 +1,7 @@
 # calc-backend
 
 Backend repo for a calculator.
+frontend is found at [`this`](https://github.com/calbalt/calc-frontend) page.
 
 ## How to start contributing
 
